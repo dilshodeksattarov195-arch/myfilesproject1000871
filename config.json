@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvecrypt",
+        "uuid": 1728064,
+        "checksum": "hrhpe"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
